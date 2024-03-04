@@ -5,4 +5,4 @@ This package an implementation of the Metropolis-Hastings algorithm for generati
 ## Installation
 
 ```bash
-pip install sampling_algorithms
+pip install SamplingAlgo
