@@ -8,7 +8,7 @@ setup(
     description='A package for sampling algorithms including Metropolis-Hastings',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourgithubusername/SamplingAlgo',
+    url='https://github.com/idvb188/SamplingAlgo',
     packages=find_packages(),
     install_requires=[
         'numpy',
@@ -20,4 +20,8 @@ setup(
         'Operating System :: OS Independent',
     ],
     python_requires='>=3.6',
+
+    project-urls = {
+        "Source" = "https://github.com/idvb188/SamplingAlgo",
+    },
 )
