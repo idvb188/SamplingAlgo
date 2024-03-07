@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='SamplingAlgo',
-    version='0.1.0',
+    version='0.1.1',
     author='Ilyad',
     author_email='idvb188@gmail.com',
     description='A package for sampling algorithms including Metropolis-Hastings',
