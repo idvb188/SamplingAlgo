@@ -21,7 +21,7 @@ setup(
     ],
     python_requires='>=3.6',
 
-    project-urls = {
-        "Source" = "https://github.com/idvb188/SamplingAlgo",
+    project-urls={
+        "Source":"https://github.com/idvb188/SamplingAlgo",
     },
 )
